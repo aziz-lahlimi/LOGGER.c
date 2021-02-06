@@ -1,14 +1,4 @@
-/*****************************************************************
 
-	--> compteur.c
-
-	Le programme "ini.c" doit avoir ete execute 1 fois avant "compteur.c"
-	
-	Stevens Gagnon
-	Departement Informatique
-	College Shawinigan
-	
-******************************************************************/
 #include <stdio.h>
 
 #include "jeton.h"
